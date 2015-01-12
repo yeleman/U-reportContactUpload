@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">U-report Mali Contacts</string>
+
+    <string name="warning">Avertissement !</string>
+    <string name="introduction"><![CDATA[Cette application est dédiée uniquement à l\'équipe U-report Mali.\n\n
+    Cette application va scanner tout ton carnet d\'adresses et envoyer les numéros de tes contacts sur le serveur U-report.\n\n
+
+    Ils recevront ensuite un message les invitant à rejoindre U-report.\n\n
+
+    Si tu n\'es pas sûr de ce que ça signifie, laisses tomber.\n\n
+
+    En cas de doute, contacte renaud ou Abdou Ag.]]></string>
+
+    <string name="onlyOneNumberPerContactLabel">Un seul numéro par contact</string>
+    <string name="scanButtonLabel">Scanner mon répertoire</string>
+
+    <string name="lastStepLabel">Attention, la prochaine étape va transmettre tous tes contacts au serveur.</string>
+    <string name="uploadButtonLabel">Envoyer les numéros à U-report</string>
+
+
+    <string name="scan_in_progress_title">Analyse en cours…</string>
+    <string name="scan_in_progress_body">Merci de patienter quelques secondes pendant que je parcours le carnet d\'adresses.</string>
+
+    <string name="upload_in_progress_title">Envoi en cours…</string>
+    <string name="upload_in_progress_body">Merci de patienter quelques secondes pendant que j\'envoi les numéros de téléphone.</string>
+
+    <string name="required_connexion_title">Connection requise</string>
+    <string name="required_connexion_body">Il faut activer la connection Internet pour pouvoir envoyer les numéros. Active-la et reéssaye.</string>
+    <string name="required_connexion_cancel">Annuler</string>
+    <string name="required_connexion_retry">Re-éssayer</string>
+
+    <string name="thankYou">Merci !</string>
+    <string name="nbOfContactsImportedLabel">%d numéros importés !</string>
+
+    <string name="thankYouLabel">Merci beaucoup d\'avoir envoyé tes contacts.\nBeaucoup rejoindront U-report, espérons le !\n\nJ\'ai enregistré %d numéros en provenance de ton téléphone.\n\nMerci !</string>
+</resources>
